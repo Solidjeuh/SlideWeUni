@@ -46,33 +46,33 @@ $lang = array_merge($lang, array(
         'L_SLIDE_WEUNI_CONTROLS'         => 'Schakel bedieningsknoppen in',
         'L_SLIDE_WEUNI_CONTROLS_EXPLAIN' => '(Enkel voor Prosilver)',        
 
-        'L_SLIDE_WEUNI_IMG1'             => 'Volledige naam van 1ste Afbeelding',
-        'L_SLIDE_WEUNI_URL1'             => 'URL link 1ste Afbeelding',
+        'L_SLIDE_WEUNI_IMG1'             => 'Pad naar de 1ste Afbeelding',
+        'L_SLIDE_WEUNI_URL1'             => 'Doorverwijslink 1ste Afbeelding',
 
-        'L_SLIDE_WEUNI_IMG2'             => 'Volledige naam van 2de Afbeelding',
-        'L_SLIDE_WEUNI_URL2'             => 'URL link 2de Afbeelding',
+        'L_SLIDE_WEUNI_IMG2'             => 'Pad naar de 2de Afbeelding',
+        'L_SLIDE_WEUNI_URL2'             => 'Doorverwijslink 2de Afbeelding',
 
-        'L_SLIDE_WEUNI_IMG3'             => 'Volledige naam van 3de Afbeelding',
-        'L_SLIDE_WEUNI_URL3'             => 'URL link 3de Afbeelding',
+        'L_SLIDE_WEUNI_IMG3'             => 'Pad naar de 3de Afbeelding',
+        'L_SLIDE_WEUNI_URL3'             => 'Doorverwijslink 3de Afbeelding',
 
-        'L_SLIDE_WEUNI_IMG4'             => 'Volledige naam van 4de Afbeelding',
-        'L_SLIDE_WEUNI_URL4'             => 'URL link 4de Afbeelding',
+        'L_SLIDE_WEUNI_IMG4'             => 'Pad naar de 4de Afbeelding',
+        'L_SLIDE_WEUNI_URL4'             => 'Doorverwijslink 4de Afbeelding',
 
-        'L_SLIDE_WEUNI_IMG5'             => 'Volledige naam van 5de Afbeelding',
-        'L_SLIDE_WEUNI_URL5'             => 'URL link 5de Afbeelding',
+        'L_SLIDE_WEUNI_IMG5'             => 'Pad naar de 5de Afbeelding',
+        'L_SLIDE_WEUNI_URL5'             => 'Doorverwijslink 5de Afbeelding',
 
-        'L_SLIDE_WEUNI_IMG6'             => 'Volledige naam van 6de Afbeelding',
-        'L_SLIDE_WEUNI_URL6'             => 'URL link 6de Afbeelding',
+        'L_SLIDE_WEUNI_IMG6'             => 'Pad naar de 6de Afbeelding',
+        'L_SLIDE_WEUNI_URL6'             => 'Doorverwijslink 6de Afbeelding',
 
-        'L_SLIDE_WEUNI_IMG7'             => 'Volledige naam van 7ste Afbeelding',
-        'L_SLIDE_WEUNI_URL7'             => 'URL link 7de Afbeelding',
+        'L_SLIDE_WEUNI_IMG7'             => 'Pad naar de 7de Afbeelding',
+        'L_SLIDE_WEUNI_URL7'             => 'Doorverwijslink 7de Afbeelding',
 
-        'L_SLIDE_WEUNI_IMG8'             => 'Volledige naam van 8de Afbeelding',
-        'L_SLIDE_WEUNI_URL8'             => 'URL link 8ste Afbeelding',
+        'L_SLIDE_WEUNI_IMG8'             => 'Pad naar de 8ste Afbeelding',
+        'L_SLIDE_WEUNI_URL8'             => 'Doorverwijslink 8ste Afbeelding',
 
-        'L_SLIDE_WEUNI_IMG9'             => 'Volledige naam van 9de Afbeelding',
-        'L_SLIDE_WEUNI_URL9'             => 'URL link 9de Afbeelding',
+        'L_SLIDE_WEUNI_IMG9'             => 'Pad naar de 9de Afbeelding',
+        'L_SLIDE_WEUNI_URL9'             => 'Doorverwijslink 9de Afbeelding',
 
-        'L_SLIDE_WEUNI_IMG10'             => 'Volledige naam van 10de Afbeelding',
-        'L_SLIDE_WEUNI_URL10'             => 'URL link 10de Afbeelding',
+        'L_SLIDE_WEUNI_IMG10'             => 'Pad naar de 10de Afbeelding',
+        'L_SLIDE_WEUNI_URL10'             => 'Doorverwijslink 10de Afbeelding',
 ));
