@@ -4,7 +4,7 @@
  * SlideShow for we_universal >=2.5.1 extension for the phpBB Forum Software package.
  *
  * @copyright (c) 2017 Picaron
- * Nederlandse vertaling @ Solidjeuh <https://www.froddelpower.be>  
+ * Nederlandse vertaling @ Solidjeuh <https://www.froddelpower.be>
  * @license GNU General Public License, version 2 (GPL-2.0)
  *
  */
@@ -44,7 +44,10 @@ $lang = array_merge($lang, array(
         'L_SLIDE_WEUNI_DELAY'            => 'Vertraging voor overgang tussen afbeeldingen',
         'L_SLIDE_WEUNI_DELAY_EXPLAIN'    => 'Tijd in milliseconden. (Minimum: 1000 - Maximum: 10000)',
         'L_SLIDE_WEUNI_CONTROLS'         => 'Schakel bedieningsknoppen in',
-        'L_SLIDE_WEUNI_CONTROLS_EXPLAIN' => '(Enkel voor Prosilver)',        
+        'L_SLIDE_WEUNI_CONTROLS_EXPLAIN' => '(Enkel voor Prosilver)',
+        'L_SLIDE_WEUNI_EFFECT'           => 'Effect',
+        'L_SLIDE'                        => 'Schuiven',
+        'L_FADE'                         => 'vervagen',
 
         'L_SLIDE_WEUNI_IMG1'             => 'Pad naar de 1ste Afbeelding',
         'L_SLIDE_WEUNI_URL1'             => 'Doorverwijslink 1ste Afbeelding',
